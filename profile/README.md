@@ -1,6 +1,6 @@
 # Gelebron Messenger
 
-**Encrypted instant messaging & payments dApp** powered by **decentralized identities** using [XMTP](https://xmtp.org/) and [NES.TECH](https://nes.tech/).
+**Encrypted instant messaging & payments dApp** powered by **decentralized identities** using [XMTP](https://xmtp.org/), [Celo](https://celo.org/) and [NES.TECH](https://nes.tech/).
 
 <div align="center">
 <img 
