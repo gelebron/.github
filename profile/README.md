@@ -18,5 +18,5 @@ Demo Walkthrough: [Loom Video](https://www.loom.com/share/3f0553a541a24bf09b6167
 Simple Guide: [Scribe Guide](https://scribehow.com/shared/Interact_with_VNS_and_Messenger_using_MetaMask_on_localhost__DUUYue7USwe1whIVrgKNpA)
 
 ## 🔧 Contributions
-We welcome any feedback, improvements, and amendments to these repositories ⬇️
-[Gelebron Messenger](https://github.com/gelebron/gelebron-messenger)
+We welcome any feedback, improvements, and amendments to these repositories ⬇️ <br />
+- [Gelebron Messenger](https://github.com/gelebron/gelebron-messenger)
