@@ -1,6 +1,6 @@
 # Gelebron
 
-### Decentralized Identities X Encrypted Instant Messaging X Crypto Payments
+### Decentralized Identities ✖️ Encrypted Instant Messaging ✖️ Crypto Payments 🟰 Gelebron Messenger
 
 #### Powered by [XMTP](https://xmtp.org/), [Celo](https://celo.org/), Volary Name Service (VNS) and [NES.TECH SDK](https://nes.tech/).
 
